@@ -1,7 +1,13 @@
 print("this is v1.txt")
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 some text on master 1.1
 =======
 Added some thext on branch "another"
 >>>>>>> another
+=======
+some text on master 1.1
+
+somethng done here
+>>>>>>> 94894fae6a514feb1a7b77dac406fd39c1ffa187
